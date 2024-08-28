@@ -1,0 +1,160 @@
+{
+    "livros": [
+        {
+            "id": "1",
+            "nome_livro": "Dom Casmurro",
+            "descricao_livro": "Órfão de pai e protegido do mundo pelo círculo doméstico e familiar, Bentinho, o narrador-personagem tinha uma vizinha desde sua infância, Capitu, com quem veio a se casar. Quando chega aos 54 anos, o atormentado protagonista decide escrever a história da sua vida, envolta por uma eterna controvérsia quanto à possível traição de sua esposa.",
+            "data_cadastro": "2024-07-17",
+              "data_lancamento": "1994-08-29",
+              "quantidade": 5,
+              "categoria": 1,
+              "editora": 1,
+              "autor": 1,
+            "cover": "http://books.google.com/books/content?id=UJHyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "2",
+            "nome_livro": "1984",
+            "descricao_livro": "A PBS Great American Read Top 100 Pick With extraordinary relevance and renewed popularity, George Orwell’s 1984 takes on new life in this edition. “Orwell saw, to his credit, that the act of falsifying reality is only secondarily a way of changing perceptions. It is, above all, a way of asserting power.”—The New Yorker In 1984, London is a grim city in the totalitarian state of Oceania where Big Brother is always watching you and the Thought Police can practically read your mind. Winston Smith is a man in grave danger for the simple reason that his memory still functions. Drawn into a forbidden love affair, Winston finds the courage to join a secret revolutionary organization called The Brotherhood, dedicated to the destruction of the Party. Together with his beloved Julia, he hazards his life in a deadly match against the powers that be. Lionel Trilling said of Orwell’s masterpiece, “1984 is a profound, terrifying, and wholly fascinating book. It is a fantasy of the political future, and like any such fantasy, serves its author as a magnifying device for an examination of the present.” Though the year 1984 now exists in the past, Orwell’s novel remains an urgent call for the individual willing to speak truth to power.",
+            "data_cadastro": "2024-07-17",
+              "data_lancamento": "1994-08-29",
+              "quantidade": 5,
+              "categoria": 1,
+              "editora": 1,
+              "autor": 1,
+            "cover": "http://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "3",
+            "nome_livro": "O Pequeno Príncipe",
+            "descricao_livro": "Palavras de amor e sabedoria que cativam o coração e a alma fazem parte deste clássico que já conquistou milhões de leitores em todo o mundo. Durante a sua jornada por planetas diferentes e também pelo planeta Terra, o Pequeno Príncipe nos ensina lições valiosas sobre as escolhas, relações humanas e sentimentos como a solidão, a saudade, a amizade e a distância. Já há mais de sete décadas encantando as gerações de leitores, O Pequeno Príncipe é publicado agora pela Mafra Editorial, nesta edição especial, que conta com as ilustrações originais do autor e também com ilustrações inéditas. Esta é considerada uma das maiores obras literárias do século XX, sendo um dos livros mais traduzidos do mundo, para cerca de 253 idiomas. Foi publicada pela primeira vez no ano de 1942 nos Estados Unidos e, três anos depois, na França. Biografia do autor Antoine de Saint-Exupéry Antoine de Saint-Exupéry nasceu em uma família aristocrática, na data de 29 de junho de 1900, na cidade de Lyon, França. Escreveu romances de sucesso como Courrier sud (1929) e Vol de nuit (1931), obtendo grande êxito com o segundo romance, recebendo o Prêmio Fémina. Ele se tornou piloto de avião durante o serviço militar, tendo sido contratado pela Aéropostale. No início da Segunda Guerra Mundial, Antoine de Saint-Exupéry foi mobilizado pela Força Aérea para realizar voos de reconhecimento. Em 17 de junho de 1944, o autor desapareceu no mar depois de um voo para Córsega, seria um voo para uma missão de localização. Saint-Exupéry foi declarado oficialmente morte pela França no ano de 1948. Em 1998 foi encontrada sua pulseira, esclarecendo as causas de sua morte, seu avião havia sido abatido por uma aeronave da alemã.",
+            "data_cadastro": "2024-07-17",
+              "data_lancamento": "1994-08-29",
+              "quantidade": 5,
+              "categoria": 1,
+              "editora": 1,
+              "autor": 1,
+            "cover": "http://books.google.com/books/content?id=1D9KEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "4",
+            "nome_livro": "Moby Dick",
+            "descricao_livro": "A literary classic that wasn't recognized for its merits until decades after its publication, Herman Melville's Moby-Dick tells the tale of a whaling ship and its crew, who are carried progressively further out to sea by the fiery Captain Ahab. Obsessed with killing the massive whale, which had previously bitten off Ahab's leg, the seasoned seafarer steers his ship to confront the creature, while the rest of the shipmates, including the young narrator, Ishmael, and the harpoon expert, Queequeg, must contend with their increasingly dire journey. The book invariably lands on any short list of the greatest American novels.",
+            "data_cadastro": "2024-07-17",
+            "data_lancamento": "1994-08-29",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=XV8XAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "5",
+            "nome_livro": "O Retrato de Dorian Gray",
+            "descricao_livro": "O retrato de Dorian Gray é tido como a obra-prima do escritor irlandês Oscar Wilde (1854-1900), e conta a história de um jovem inglês, Dorian Gray, que é extremamente bonito e inocente. O rapaz é o modelo preferido do pintor Basil Hallward, e é no estúdio do artista que Dorian conhece lorde Henry Wotton, uma pessoa extremamente irônica, que vai influenciá-lo de modo decisivo. Quando Basil completa um retrato de Dorian, o moço fica tão fascinado com o que vê que deseja permanecer jovem para sempre.",
+            "data_cadastro": "2024-07-17",
+            "data_lancamento": "1994-08-29",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=jdK5DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "6",
+            "nome_livro": "O Iluminado",
+            "descricao_livro": "Um clássico de Stephen King. Edição especial, com tradução revisada e prólogo e epílogo inéditos. \"O lugar perfeito para recomeçar\", é o que pensa Jack Torrance ao ser contratado como zelador para o inverno. Hora de deixar para trás o alcoolismo, os acessos de fúria, os repetidos fracassos. Isolado pela neve com a esposa e o filho, tudo o que Jack deseja é um pouco de paz para se dedicar à escrita. Mas, conforme o inverno se aprofunda, o local paradisíaco começa a parecer cada vez mais remoto... e mais sinistro. Forças malignas habitam o Overlook, e tentam se apoderar de Danny Torrance, um garotinho com grandes poderes sobrenaturais. Possuir o menino, no entanto, se mostra mais difícil do que esperado. Então os espíritos resolvem se aproveitar das fraquezas do pai... Um dos livros mais assustadores de todos os tempos, O iluminado é um clássico de Stephen King. Edição especial com tradução revisada e prólogo e epílogo inéditos.",
+            "data_cadastro": "2024-07-17",
+            "data_lancamento": "1994-08-29",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=O4wtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "7",
+            "nome_livro": "Anna Karenina",
+            "descricao_livro": "Many believe Anna Karenina to be the greatest novel ever written. The impossible and destructive triangle of Anna, her husband Karenin, and her lover Vronsky, is set against the marriage of Levin and Kitty, illuminating the most important questions which beset humanity. This edition uses Louise and Aylmer Maude's classic translation - still unsurpassed - and is printed here with a new introduction and detailed annotation. - ;In 1872 the mistress of a neighbouring landowner threw herself under a train at a station near Tolstoy's home. This gave Tolstoy the starting point he needed for composing what many believe to be the greatest novel ever written. In writing Anna Karenina he moved away from the vast historical sweep of War and Peace to tell, with extraordinary understanding, the story of an aristocratic woman who brings ruin on herself. Anna's tragedy is interwoven with not only the courtship and marriage of Kitty and Levin but also the lives of many other characters. Rich in incident, powerful in characterization, the novel also expresses Tolstoy's own moral vision. `The correct way of putting the question is the artist's duty', Chekhov once insisted, and Anna Karenina was the work he chose to make his point. It solves no problem, but it is deeply satisfying because all the questions are put correctly. -",
+            "data_cadastro": "2024-07-17",
+            "data_lancamento": "1994-08-29",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=y4ECx94VRJYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "8",
+            "nome_livro": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+            "descricao_livro": "Reinos mágicos, criaturas inesquecíveis e batalhas épicas entre o bem o mal: essas histórias são narradas em As Crônicas de Nárnia — uma série de sete livros que acompanha crianças curiosas e suas aventuras entre o nosso mundo e outros universos mágicos. O Leão, a Feiticeira e o Guarda-roupa conta a história dos irmãos Pedro, Susana, Edmundo e Lúcia Pevensie. Em meio a brincadeiras na casa de um velho professor, eles descobrem um misterioso guarda-roupa que os leva a Nárnia, um reino mágico que sofre de um inverno sem fim desde que Jadis, a temida Feiticeira Branca, tomou o poder. Mas uma antiga profecia — que envolve justamente quatro crianças, além de um fantástico leão chamado Aslan — afirma que há esperança para o reino, contanto que se tenha coragem. Escrito pelo gênio C.S. Lewis, O Leão, a Feiticeira e o Guarda-roupa foi o primeiro livro lançado da saga de As Crônicas de Nárnia, em 1950. Esta obra encanta crianças e adultos há mais de 70 anos, o que faz dela um dos maiores clássicos do gênero infantojuvenil e fantástico. Há muito aguardada pelos fãs, esta é uma edição de luxo, a versão definitiva para os amantes de Sr. Tumnus e dos seus amigos da floresta. Com nova tradução de Ronald Kyrmse, o livro possui capa dura, soft touch e pintura trilateral, além de ter ilustrações coloridas de Pauline Baynes, a artista favorita de C.S. Lewis e de seu melhor amigo, J.R.R. Tolkien, autor de \"O Hobbit\" e \"O Senhor dos Anéis\".",
+            "data_cadastro": "2024-07-17",
+            "data_lancamento": "1994-08-29",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=iUGhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "9",
+            "nome_livro": "O Apanhador no Campo de Centeio",
+            "descricao_livro": "Um dos romances mais revolucionários do século XX, O apanhador no campo de centeio é a representação definitiva da juventude na literatura. Com mais de 70 milhões de cópias vendidas desde seu lançamento em 1951, o livro influenciou e marcou gerações de leitores com sua visão crua da adolescência, sua prosa ágil e desbocada e seu humor feroz e anárquico. Esta nova edição que chega agora ao leitor brasileiro tem tradução do premiado Caetano W. Galindo e, pela primeira vez, traz a capa original de seu lançamento. É Natal, e Holden Caulfield conseguiu ser expulso de mais uma escola. Com uns trocados da venda de uma máquina de escrever e portando seu indefectível boné vermelho de caçador, o jovem traça um plano incerto: tomar um trem para Nova York e vagar por três dias pela grande cidade, adiando a volta à casa dos pais até que eles recebam a notícia da expulsão por alguém da escola. Seus dias e noites serão marcados por encontros confusos, e ocasionalmente comoventes, com estranhos, brigas com os tipos mais desprezíveis, encontros com ex-namoradas, visitas à sua irmã Phoebe -- a única criatura neste mundo que parece entendê-lo -- e por dúvidas que irão consumi-lo durante sua estadia, entre elas uma questão recorrente: afinal, para onde vão os patos do Central Park no inverno? Acima de todos esses fatos, preocupações e pensamentos, paira a inimitável voz de Holden, o adolescente raivoso e idealista que quer desbancar o mundo dos \"fajutos\", num turbilhão quase sem fim de ressentimento, humor, frases lapidares, insegurança, bravatas e rebelião juvenil.",
+            "data_cadastro": "2024-07-17",
+            "data_lancamento": "1994-08-29",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=Gm_iDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "10",
+            "nome_livro": "Memórias Póstumas de Brás Cubas",
+            "descricao_livro": "Memórias Póstumas de Brás Cubas (1881), um dos principais romances da literatura brasileira, inaugura a fase madura de Machado de Assis e concretiza o ideal estético que consagrou o autor e marca sua obra. Revolucionário e provocativo, o romance rompe com tradições literárias e sintetiza a crítica machadiana à elite brasileira da época. Um dos personagens mais populares da nossa literatura, Brás Cubas é um defunto-autor que dedica sua obra ao verme que primeiro roeu as frias carnes de seu cadáver. O protagonista narra suas memórias, intercalando episódios, delírios, reflexões e teorias, não poupando ninguém do seu olhar crítico e expondo as atitudes mesquinhas que teve em vida. É definitivamente uma obra imperdível que, com linguagem fluente e coesa, conduz sedutoramente o leitor por uma narrativa que deixa nas entrelinhas muito material para reflexões mais profundas.",
+            "data_cadastro": "2024-07-17",
+            "data_lancamento": "1994-08-29",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=TqeWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "11",
+            "nome_livro": "A Arte da Guerra",
+            "descricao_livro": "O clássico que inspira líderes do mundo todo há incontáveis gerações ganha nova edição com amplos comentários históricos. Por mais de 2500 anos, A arte da guerra tem sido referência para líderes de diversas áreas do pensamento. Com suas táticas sobre como manobrar um campo de batalha, ganhar terreno inimigo e trabalhar com disfarces e subterfúgios, é um texto seminal da cultura chinesa que se torna cada vez mais acessível ao leitor ocidental. No entanto, engana-se quem pensa que a obra, considerada o maior tratado de estratégia de todos os tempos, restringe-se aos ensinamentos bélicos chineses. Composto por treze capítulos com versos simples e diretos, este é um livro antigo de sabedoria proverbial, que permite infinitas aplicações, inclusive nos negócios. Além do escrito base de Sun Tzu, a edição inclui uma seleta de seus mais importantes comentadores, que explicam a influência de A arte da guerra não só no militarismo, mas também na gerência administrativa e nas técnicas modernas de liderança.",
+            "data_cadastro": "2024-07-17",
+            "data_lancamento": "1994-08-29",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=0f6VEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "12",
+            "nome_livro": "O Nome_livro do Vento",
+            "descricao_livro": "\"Devorei em um dia e já estou louco pelo próximo. Ele é muito bom, esse tal de Rothfuss.\" – George R. R. Martin, autor de A guerra dos tronos Ninguém sabe ao certo quem é o herói ou o vilão desse fascinante universo criado por Patrick Rothfuss. Na realidade, essas duas figuras se concentram em Kote, um homem enigmático que se esconde sob a identidade de proprietário da hospedaria Marco do Percurso. Da infância numa trupe de artistas itinerantes, passando pelos anos vividos numa cidade hostil e pelo esforço para ingressar na escola de magia, O nome_livro do vento acompanha a trajetória de Kote e as duas forças que movem sua vida: o desejo de aprender o mistério por trás da arte de nome_livroar as coisas e a necessidade de reunir informações sobre o Chandriano – os lendários demônios que assassinaram sua família no passado. Quando esses seres do mal reaparecem na cidade, um cronista suspeita de que o misterioso Kote seja o personagem principal de diversas histórias que rondam a região e decide aproximar-se dele para descobrir a verdade. Pouco a pouco, a história de Kote vai sendo revelada, assim como sua multifacetada personalidade – notório mago, esmerado ladrão, amante viril, herói salvador, músico magistral, assassino infame. Nessa provocante narrativa, o leitor é transportado para um mundo fantástico, repleto de mitos e seres fabulosos, heróis e vilões, ladrões e trovadores, amor e ódio, paixão e vingança. Mais do que a trama bem construída e os personagens cativantes, o que torna O nome_livro do vento uma obra tão especial – que levou Patrick Rothfuss ao topo da lista de mais vendidos do The New York Times – é sua capacidade de encantar leitores de todas as idades.",
+            "data_cadastro": "2024-07-17",
+            "data_lancamento": "1994-08-29",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=7-9zwIWkAlEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          {
+            "id": "13",
+            "nome_livro": "O Grande Gatsby",
+            "descricao_livro": "Quem, melhor do que Jorge Luis Borges, para nos apresentar O Grande Gatsby. Escreveu ele na sua Introducción a la literatura norteamericana: «O Grande Gatsby, 1925, a história de um homem que tenta em vão recuperar um amor de juventude, no qual transparece a nostalgia do velho Sonho americano de um novo mundo… Mais do que qualquer outro escritor da sua geração, Scott Fitzgerald retrata os anos que se seguiram à Primeira Guerra Mundial.» Um escritor contemporâneo, Jay McInerney, não poupou nos elogios: «É mais do que um clássico americano; tornou-se um documento definidor da psique nacional, um mito da criação, a Pedra de Roseta do sonho americano que a prosa de Fitzgerald eleva ao nível do mito.» E de Gatsby disse também Clara Ferreira Alves: «A arrogância do poder e do dinheiro, da posse e da propriedade, parece-se muito com a arrogância da beleza e da juventude. Fitzgerald capturou essa ilusão americana da eternidade, como a “luz verde” que conforta Gatsby a cintilar na noite de Verão do outro lado da baía.»",
+            "data_cadastro": "2024-07-17",
+            "data_lancamento": "1994-08-29",
+            "quantidade": 5,
+            "categoria": 1,
+            "editora": 1,
+            "autor": 1,
+            "cover": "http://books.google.com/books/content?id=1iZoEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          }
+    ]
+}
