@@ -1,6 +1,6 @@
 import requests
 from django.core.management.base import BaseCommand
-from books.models import Livro
+from books.models import Livro, Categoria, Editora, Autor
 
 class Command(BaseCommand):
     help = 'Load books from JSON server and save to database'
@@ -11,6 +11,10 @@ class Command(BaseCommand):
         livros = response.json()
 
         for livro_data in livros:
+            categoria, _ = Categoria.objects.get_or_create(id=livro_data['categoria'])
+            editora, _ = Editora.objects.get_or_create(id=livro_data['editora'])
+            autor, _ = Autor.objects.get_or_create(id=livro_data['autor'])
+
             livro, created = Livro.objects.get_or_create(
                 id=livro_data['id'],
                 defaults={
@@ -19,9 +23,10 @@ class Command(BaseCommand):
                     'data_cadastro': livro_data['data_cadastro'],
                     'data_lancamento': livro_data['data_lancamento'],
                     'quantidade': livro_data['quantidade'],
-                    'categoria_id': livro_data['categoria'],
-                    'editora_id': livro_data['editora'],
-                    'autor_id': livro_data['autor'],
+                    'categoria': categoria,
+                    'editora': editora,
+                    'autor': autor,
+                    'instituicao': livro_data['instituicao'],
                     'cover': livro_data['cover']
                 }
             )

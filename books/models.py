@@ -30,6 +30,7 @@ class Livro(models.Model):
     categoria = models.ForeignKey(Categoria, on_delete=models.CASCADE, verbose_name="Categoria")
     editora = models.ForeignKey(Editora, on_delete=models.CASCADE, verbose_name="Editora")
     autor = models.ForeignKey(Autor, on_delete=models.CASCADE, verbose_name="Autor")
+    instituicao = models.CharField(max_length=100, verbose_name="Instituição", default="IFRN")
     cover = models.URLField(max_length=200)
     
     def __str__(self):

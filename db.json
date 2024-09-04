@@ -10,6 +10,7 @@
               "categoria": 1,
               "editora": 1,
               "autor": 1,
+              "instituicao": "UFERSA",
             "cover": "http://books.google.com/books/content?id=UJHyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           {
@@ -22,6 +23,7 @@
               "categoria": 1,
               "editora": 1,
               "autor": 1,
+              "instituicao": "UFERSA",
             "cover": "http://books.google.com/books/content?id=kotPYEqx7kMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           {
@@ -34,6 +36,7 @@
               "categoria": 1,
               "editora": 1,
               "autor": 1,
+              "instituicao": "UFERSA",
             "cover": "http://books.google.com/books/content?id=1D9KEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           {
@@ -46,6 +49,7 @@
             "categoria": 1,
             "editora": 1,
             "autor": 1,
+            "instituicao": "UFERSA",
             "cover": "http://books.google.com/books/content?id=XV8XAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           {
@@ -58,6 +62,7 @@
             "categoria": 1,
             "editora": 1,
             "autor": 1,
+            "instituicao": "UFERSA",
             "cover": "http://books.google.com/books/content?id=jdK5DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           {
@@ -70,6 +75,7 @@
             "categoria": 1,
             "editora": 1,
             "autor": 1,
+            "instituicao": "UFERSA",
             "cover": "http://books.google.com/books/content?id=O4wtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           {
@@ -82,6 +88,7 @@
             "categoria": 1,
             "editora": 1,
             "autor": 1,
+            "instituicao": "UFERSA",
             "cover": "http://books.google.com/books/content?id=y4ECx94VRJYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           {
@@ -94,6 +101,7 @@
             "categoria": 1,
             "editora": 1,
             "autor": 1,
+            "instituicao": "UFERSA",
             "cover": "http://books.google.com/books/content?id=iUGhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           {
@@ -106,6 +114,7 @@
             "categoria": 1,
             "editora": 1,
             "autor": 1,
+            "instituicao": "UFERSA",
             "cover": "http://books.google.com/books/content?id=Gm_iDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           {
@@ -118,6 +127,7 @@
             "categoria": 1,
             "editora": 1,
             "autor": 1,
+            "instituicao": "UFERSA",
             "cover": "http://books.google.com/books/content?id=TqeWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           {
@@ -130,6 +140,7 @@
             "categoria": 1,
             "editora": 1,
             "autor": 1,
+            "instituicao": "UFERSA",
             "cover": "http://books.google.com/books/content?id=0f6VEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           {
@@ -142,6 +153,7 @@
             "categoria": 1,
             "editora": 1,
             "autor": 1,
+            "instituicao": "UFERSA",
             "cover": "http://books.google.com/books/content?id=7-9zwIWkAlEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           },
           {
@@ -154,6 +166,7 @@
             "categoria": 1,
             "editora": 1,
             "autor": 1,
+            "instituicao": "UFERSA",
             "cover": "http://books.google.com/books/content?id=1iZoEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
           }
     ]
