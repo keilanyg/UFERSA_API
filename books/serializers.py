@@ -23,7 +23,7 @@ class LivroSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Livro
-        fields = ['id', 'nome_livro', 'data_cadastro', 'data_lancamento', 'quantidade', 'descricao_livro', 'categoria', 'editora', 'autor', 'autor_obj', 'cover', 'editora_obj', 'categoria_obj']
+        fields = ['id', 'nome_livro', 'data_cadastro', 'data_lancamento', 'quantidade', 'descricao_livro', 'categoria', 'editora', 'autor', 'autor_obj', 'cover', 'editora_obj', 'categoria_obj', 'instituicao']
 
     def get_autor_obj(self, instance):
         autor = Autor.objects.get(id=instance.autor.id)
